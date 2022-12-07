@@ -107,7 +107,7 @@ aside {
     background-image:linear-gradient(
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)), 
-        url(./assets/home.jpg);
+        url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/home.jpg);
     background-size: cover;
 }
 
@@ -123,7 +123,7 @@ aside {
     background-image: linear-gradient(
         rgba(21, 38, 163, 0.75), 
         rgba(21, 38, 163, 0.75)
-      ), url(./assets/open.jpg);
+      ), url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/open.jpg);
     background-size: cover;
 }
 
@@ -132,7 +132,7 @@ aside {
     background-image: linear-gradient(
         rgba(245, 102, 0, 0.90), 
         rgba(245, 102, 0, 0.90)
-      ), url(../src/assets/book.jpg);
+      ), url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/book.jpg);
     background-size: cover;
     color: #363643;
 }
@@ -142,7 +142,7 @@ aside {
     background-image: linear-gradient(
         rgba(192, 55, 196, 0.75), 
         rgba(192, 55, 196, 0.75)
-      ), url(/src/assets/comfortable.jpg);
+      ), url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/comfortable.jpg);
     background-size: cover;
 }
 
@@ -151,7 +151,7 @@ aside {
     background-image: linear-gradient(
         rgba(252, 144, 205, 0.85), 
         rgba(252, 144, 205, 0.85)
-      ), url(/src/assets/sea.jpg);
+      ), url(https://kimintime.github.io/fs13-CSS-website-public//src/assets/sea.jpg);
     background-size: cover;
     color: #363643;
 }
@@ -188,8 +188,6 @@ aside {
 	}
 }
 
-
-
 .container-article {
     display: flex;
     flex-direction: column;
@@ -224,7 +222,7 @@ aside {
     background-image:linear-gradient(
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)), 
-        url(/src/assets/pillows.jpg);
+        url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/pillows.jpg);
     background-size: cover;
 }
 
@@ -256,7 +254,7 @@ aside {
     background-image:linear-gradient(
         rgba(207, 165, 50, 0.90),
         rgba(207, 165, 50, 0.90)), 
-        url(/src/assets/inspiration.jpg);
+        url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/inspiration.jpg);
     background-size: cover;
     color: #363643;
 }
@@ -265,7 +263,7 @@ aside {
     background-image:linear-gradient(
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)), 
-        url(/src/assets/roam.jpg);
+        url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/roam.jpg);
     background-size: cover;
 }
 
@@ -322,7 +320,7 @@ aside {
     background-image: linear-gradient(
         rgba(217, 162, 245, 0.85), 
         rgba(217, 162, 245, 0.85)
-      ), url(/src/assets/problems.jpg);
+      ), url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/problems.jpg);
     background-size: cover;
 
 }
@@ -331,7 +329,7 @@ aside {
     background-image: linear-gradient(
         rgba(232, 185, 97, 0.85), 
         rgba(232, 185, 97, 0.85)
-      ), url(/src/assets/quiet.jpg);
+      ), url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/quiet.jpg);
     background-size: cover;
 }
 
@@ -355,7 +353,7 @@ aside {
     background-image:linear-gradient(
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)), 
-        url(/src/assets/unique.jpg);
+        url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/unique.jpg);
     background-size: cover;
 }
 
@@ -363,7 +361,7 @@ aside {
     background-image: linear-gradient(
         rgba(252, 144, 205, 0.85), 
         rgba(252, 144, 205, 0.85)
-      ), url(/src/assets/sea.jpg);
+      ), url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/sea.jpg);
     background-size: cover;
     color: #363643;
 }
@@ -372,7 +370,7 @@ aside {
     background-image:linear-gradient(
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)), 
-        url(/src/assets/kitchen.jpg);
+        url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/kitchen.jpg);
     background-size: cover;
 }
 
