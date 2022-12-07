@@ -107,7 +107,7 @@ aside {
     background-image:linear-gradient(
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)), 
-        url(https://kimintime.github.io/fs13-CSS-website-public/src/assets/home.jpg);
+        url(../src/assets/home.jpg);
     background-size: cover;
 }
 
@@ -123,7 +123,7 @@ aside {
     background-image: linear-gradient(
         rgba(21, 38, 163, 0.75), 
         rgba(21, 38, 163, 0.75)
-      ), url(src/assets/open.jpg);
+      ), url(../src/assets/open.jpg);
     background-size: cover;
 }
 
@@ -132,7 +132,7 @@ aside {
     background-image: linear-gradient(
         rgba(245, 102, 0, 0.90), 
         rgba(245, 102, 0, 0.90)
-      ), url(/src/assets/book.jpg);
+      ), url(../src/assets/book.jpg);
     background-size: cover;
     color: #363643;
 }
