@@ -7,7 +7,7 @@ https://kimintime.github.io/fs13-CSS-website-public/
 
 ## About this storefront:
 
-This storefront template website was created with some heavy CSS, experimenting with animations and hover effects, as well as using display flex and grid layout.
+This storefront template website was created with some heavy CSS, experimenting with animations and hover effects, as well as using display flex and grid layout, and was inspired by https://maido-dark.fueko.net. 
 
 ## Personal Comment
 
