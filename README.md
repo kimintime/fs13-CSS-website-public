@@ -1,9 +1,9 @@
 # CSS/SCSS Assignment: Create a storefront template
 
-###Note! - This website is not yet mobile-responsive.
+###Note! - This website is not yet mobile-responsive, and is resource-heavy.
 
 Follow this link to see it live:
-
+https://kimintime.github.io/fs13-CSS-website-public/
 
 ## About this storefront:
 
