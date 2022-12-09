@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    max-width: 100%;
 }
 
 body {
@@ -76,7 +77,7 @@ aside {
     top: 25%; 
     left: 10px;
     padding-top: 20px;
-    justify-content: center;  
+    justify-content: center;
 }
 
 .sidetext {
@@ -94,7 +95,7 @@ aside {
         "a b c"
         "a d e";
     grid-gap: 1em;
-    align-items: center; 
+    align-items: center;
 }
 
 .container-pinned-space,
