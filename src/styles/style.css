@@ -122,7 +122,7 @@ aside {
 .container-pinned-openmore,
 .container-pinned-openmind,
 .container-pinned-everyone,
-.container-pinned-anyone p {
+.container-pinned-anyone {
     font-family: 'Paytone One', serif;
     font-size: 20px;
     padding: 1em;
@@ -142,7 +142,7 @@ aside {
     background-size: cover;
 }
 
-.container-pinned-space p {
+.container-pinned-space {
     font-family: 'Paytone One', serif;
     font-size: 35px;
     padding: 1em;
@@ -242,7 +242,7 @@ aside {
 
 .container-article-peace,
 .container-article-inspiration,
-.container-article-freedom p 
+.container-article-freedom
 {
     font-family: 'Paytone One', serif;
     font-size: 45px;
@@ -339,7 +339,7 @@ aside {
 }
 
 .container-article-problems,
-.container-article-quiet p {
+.container-article-quiet {
     font-family: 'Paytone One', serif;
     font-size: 35px;
     color: #363643;
@@ -374,7 +374,7 @@ aside {
 
 .container-article-unique,
 .container-article-calm,
-.container-article-happening p {
+.container-article-happening {
     font-family: 'Paytone One', serif;
     font-size: 25px;
     padding: 2em; 
@@ -476,7 +476,7 @@ aside {
     width: 45%;
 }
 
-.container-subscribe h4 {
+.container-subscribe {
     font-family: 'Paytone One', serif;
     font-size: 45px;
 }
@@ -528,14 +528,57 @@ input::placeholder {
     color: grey;
 }
 
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="container-pinned-"] {
+      width: 100%;
+      font-size: 15px;
+    }
+  }
 
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="container-row-"] {
+      width: 100%;
+    }
+  }
 
+  @media only screen and (max-width: 1024px) {
+    /* For mobile phones: */
+    [class*="container-pinned-"] {
+      width: 100%;
+      font-size: 15px;
+    }
+  }
 
+  @media only screen and (max-width: 1024px) {
+    /* For mobile phones: */
+    [class*="container-row-"] {
+      width: 100%;
+    }
+  }
 
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="subscribe"] {
+      width: 50%;
+      margin: 0 auto;
+        width: 50%;
+        font-size: 15px;
+        text-align: center;
+    }
+  }
 
-/* a:hover {
-    
-} */
+  @media only screen and (max-width: 1024px) {
+    /* For mobile phones: */
+    [class*="subscribe"] {
+        margin: 0 auto;
+        width: 75%;
+        font-size: 15px;
+        text-align: center;
+    }
+  }
+
 
 
 
